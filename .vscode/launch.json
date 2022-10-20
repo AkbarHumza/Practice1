@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Week1",
+            "request": "launch",
+            "mainClass": "Week1.Week1",
+            "projectName": "Practice1_d167d8d4"
+        }
+    ]
+}
